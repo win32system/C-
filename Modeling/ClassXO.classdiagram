@@ -1,1 +1,32 @@
-﻿ 
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="0ea1e64c-b8ef-40da-823c-ae2ae0125d95" name="ClassXO" linkedPackageId="138d70c4-875f-48c1-8689-bd5edb533703" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="38508cf3-726b-4f8c-98cb-2052c3bd35ec">
+      <profileInstance Id="5a46c58c-85a4-49a5-8afa-3c77511d3252" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="db6c5215-1438-4fc8-bc44-1f4c9b2412f5">
+      <profileInstance Id="abfee74b-0804-40c7-a4f6-1eb98fc14f1c" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="4727dc7a-21a2-46a0-8138-8c912b904c79" name="Package2">
+        <elementDefinition Id="aa6605ee-c736-4d27-80af-58894a10a726" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="44798692-f1b6-41f6-a33e-0bcc56656704" name="Package3">
+        <elementDefinition Id="924253b2-3e31-4464-b3ed-221881c18506" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+  </packagedElements>
+  <package Id="138d70c4-875f-48c1-8689-bd5edb533703" name="Modeling">
+    <elementDefinition Id="81b64206-5f97-4238-a748-73dce10b7c85" />
+  </package>
+</logicalClassDesignerModel>
